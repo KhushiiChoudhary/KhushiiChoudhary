@@ -10,19 +10,26 @@ A data science enthusiast passionate about leveraging data to solve real-world p
 *   Open to collaborating on exciting data science projects.
 *   Feel free to reach out to discuss data science, machine learning, or anything related!
 *   Pronouns: She/Her
+*   
+   
+## 💬 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushichoudhary27/)
 
 ## ✨ Projects
 
-*   **Sentiment AI: Twitter Sentiment Analysis**
+*   **Sentiment AI: Twitter Sentiment Analysis** [https://github.com/KhushiiChoudhary/Setiment-AI-Twitter-Sentiment-Analysis]
     *   Leveraged NLP and machine learning to analyze public opinion on Twitter.
     *   Achieved 92% accuracy using CNN and LSTM models.
     *   Key Skills: Python, pandas, Word2Vec, CNN, LSTM
-    *   [Link to Project Repository (if available)]
-*   **AI Text Classification with RAIDAR & Logistic Regression**
+
+      
+*   **AI Text Classification with RAIDAR & Logistic Regression** [(https://github.com/KhushiiChoudhary/AI-text-Classifier-based-on-RAIDAR)]
     *   Developed RAIDAR using BART to detect AI-generated text.
     *   Achieved 95% accuracy and 0.94 F1-score in classifying text origins.
     *   Key Skills: Python, pandas, SciKit-learn, BART
-    *   [Link to Project Repository (if available)]
+
+
 *   **Bidirectional Visitor Counter using Arduino UNO**
     *   Developed a visitor counter system using Arduino UNO and IR sensors.
     *   Published research paper: [https://papers.ssrn.com/sol3/papers.cfm?abstractid=4443869](https://papers.ssrn.com/sol3/papers.cfm?abstractid=4443869)
@@ -30,9 +37,13 @@ A data science enthusiast passionate about leveraging data to solve real-world p
 
 ## 🛠️ Skills
 
-*   **Languages:** Python, R, SAS, SQL
-*   **Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Matplotlib, Seaborn
-*   **Tools:** Git, Docker, AWS, Power BI
+*   **Programming Languages:** Python, R, SAS, SQL, Java, C
+*   **ML & Visualization Libraries:** Pandas, NumPy, TensorFlow, Keras, Scikit-learn, Matplotlib, Seaborn, SciPy, ggplot2, Gensim
+*   **Data Analysis & Modeling:** Predictive Modeling, Statistical Analysis, Data Visualization
+*   **Clinical Data Analysis:** Proficient with SAS (e.g., PROC FREQ, PROC MEANS) for clinical trial data analysis
+*   **IDEs:** Jupyter Notebook, Anaconda, RStudio, Visual Studio Code, NetBeans
+*   **Coursework Highlights:** Data Analytics, Machine Learning, Deep Learning, Artificial Intelligence, Database Management Systems (DBMS), Data Structures and Algorithms, Object-Oriented Programming (OOP)
+
 
 ## 📊 GitHub Stats
 
@@ -40,8 +51,6 @@ A data science enthusiast passionate about leveraging data to solve real-world p
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhushiiChoudhary&layout=compact&theme=radical)](https://github.com/KhushiiChoudhary)
 
-## 💬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushichoudhary27/)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=KhushiiChoudhary)
