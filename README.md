@@ -18,6 +18,11 @@ Welcome to my GitHub profile! I'm a data science enthusiast passionate about lev
     *   Achieved 95% accuracy and 0.94 F1-score in classifying text origins.
     *   Key Skills: Python, pandas, SciKit-learn, BART
 
+*   **[Scaling Up Data Processing with Dask: A Game-Changer for Big Data!](https://github.com/KhushiiChoudhary/DaskvsPandas)**
+    *   Presented a comparison of Dask and Pandas for large-scale data processing.
+    *   Demonstrated significant performance improvements with Dask for filtering and merging large datasets.
+    *   Key Skills: Python, Dask, Pandas, Data Analysis, Distributed Computing
+
 *   **[Bidirectional Visitor Counter using Arduino UNO](https://papers.ssrn.com/sol3/papers.cfm?abstractid=4443869)**
     *   Developed a visitor counter system using Arduino UNO and IR sensors.
     *   Published research paper.
