@@ -1,38 +1,26 @@
 # Hi there 👋, I'm Khushi Choudhary!
 
-A data science enthusiast passionate about leveraging data to solve real-world problems. Currently pursuing my Master's in Data Science and Analytics at CSU Chico.
+Welcome to my GitHub profile! I'm a data science enthusiast passionate about leveraging data to solve real-world problems, currently pursuing my Master's in Data Science and Analytics at CSU Chico.
 
-## 🎓 About Me
-
-*   Master's student in Data Science and Analytics at California State University, Chico.
-*   Experienced in data analysis, machine learning, and data visualization.
-*   Currently working as a Math Student Learning Assistant, Research Assistant for the Adelante Grant, and Data Science Research and Consulting Assistant at CSU Chico.
-*   Open to collaborating on exciting data science projects.
-*   Feel free to reach out to discuss data science, machine learning, or anything related!
-*   Pronouns: She/Her
-*   
-   
 ## 💬 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushichoudhary27/)
 
 ## ✨ Projects
 
-*   **Sentiment AI: Twitter Sentiment Analysis** [https://github.com/KhushiiChoudhary/Setiment-AI-Twitter-Sentiment-Analysis]
+*   **[Sentiment AI: Twitter Sentiment Analysis](https://github.com/KhushiiChoudhary/Setiment-AI-Twitter-Sentiment-Analysis)**
     *   Leveraged NLP and machine learning to analyze public opinion on Twitter.
     *   Achieved 92% accuracy using CNN and LSTM models.
     *   Key Skills: Python, pandas, Word2Vec, CNN, LSTM
 
-      
-*   **AI Text Classification with RAIDAR & Logistic Regression** [(https://github.com/KhushiiChoudhary/AI-text-Classifier-based-on-RAIDAR)]
+*   **[AI Text Classification with RAIDAR & Logistic Regression](https://github.com/KhushiiChoudhary/AI-text-Classifier-based-on-RAIDAR)**
     *   Developed RAIDAR using BART to detect AI-generated text.
     *   Achieved 95% accuracy and 0.94 F1-score in classifying text origins.
     *   Key Skills: Python, pandas, SciKit-learn, BART
 
-
-*   **Bidirectional Visitor Counter using Arduino UNO**
+*   **[Bidirectional Visitor Counter using Arduino UNO](https://papers.ssrn.com/sol3/papers.cfm?abstractid=4443869)**
     *   Developed a visitor counter system using Arduino UNO and IR sensors.
-    *   Published research paper: [https://papers.ssrn.com/sol3/papers.cfm?abstractid=4443869](https://papers.ssrn.com/sol3/papers.cfm?abstractid=4443869)
+    *   Published research paper.
     *   Key Skills: C, Arduino, PCB Design
 
 ## 🛠️ Skills
@@ -51,6 +39,17 @@ A data science enthusiast passionate about leveraging data to solve real-world p
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhushiiChoudhary&layout=compact&theme=radical)](https://github.com/KhushiiChoudhary)
 
-
-
 ![Visitor Count](https://komarev.com/ghpvc/?username=KhushiiChoudhary)
+
+## 🎓 About Me
+
+*   Master's student in Data Science and Analytics at California State University, Chico.
+*   Experienced in data analysis, machine learning, and data visualization.
+*   Currently working as a Math Student Learning Assistant, Research Assistant for the Adelante Grant, and Data Science Research and Consulting Assistant at CSU Chico.
+*   Open to collaborating on exciting data science projects.
+*   Feel free to reach out to discuss data science, machine learning, or anything related!
+*   Pronouns: She/Her
+
+
+
+
