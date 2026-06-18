@@ -12,17 +12,17 @@ I'm a Data Scientist and ML Engineer passionate about building systems that turn
 
 ## ✨ Projects
 
-- **[Neo — Autonomous ML Engineer Agent](https://github.com/KhushiiChoudhary/Neo)**
+- **[Neo - Autonomous ML Engineer Agent](https://github.com/KhushiiChoudhary/Neo)**
   - Upload a dataset, describe your goal in plain English, and Neo handles the rest: data profiling, preprocessing, model experimentation, hyperparameter tuning, and explainability reporting.
   - Built end-to-end in 3 days using a fully agentic LangGraph loop.
   - Key Skills: Python, LangGraph, GPT-4o, XGBoost, MLflow, SHAP, Optuna, Streamlit
 
-- **[NVADG — Volunteer Scheduling App for Wildfire Response](https://github.com/csucdsi/NVADG)** *(MS Thesis)*
+- **[NVADG - Volunteer Scheduling App for Wildfire Response](https://github.com/csucdsi/NVADG)** *(MS Thesis)*
   - Production-deployed Shiny for Python application optimizing volunteer scheduling for the North Valley Animal Disaster Group.
   - Backed by a Poisson GLM trained on 673 volunteer records from four 2024 California wildfire events; deployed on Posit Connect.
   - Key Skills: Python, Shiny for Python, R, GLM, Statistical Modeling, Posit Connect
 
-- **[GTM Analysis — E-Commerce Behavior Case Study](https://github.com/KhushiiChoudhary/GTM_Analysis)**
+- **[GTM Analysis - E-Commerce Behavior Case Study](https://github.com/KhushiiChoudhary/GTM_Analysis)**
   - End-to-end Go-To-Market analysis on ~42M rows of real e-commerce event data.
   - Covers sequential funnel construction, drop-off analysis, RFM-based user segmentation, and data-backed GTM recommendations.
   - Key Skills: Python, Pandas, Matplotlib, Seaborn, Jupyter, Funnel Analysis, RFM Segmentation
@@ -69,12 +69,12 @@ I'm a Data Scientist and ML Engineer passionate about building systems that turn
 
 ## 🎓 About Me
 
-- **M.S. Data Science and Analytics**, CSU Chico — GPA 3.8, May 2026
+- **M.S. Data Science and Analytics**, CSU Chico - GPA 3.8, May 2026
 - **B.E. Electronics Engineering** with a Minor in AI & Machine Learning
-- Former Data Science Intern at **Western Weather Group** — built an NLP querying pipeline over 600+ weather stations, improving efficiency by 40%
-- Former Research Analyst at **CSU Chico Basic Needs** — built Power BI dashboards tracking 5,000+ student records; findings presented to the Chancellor's Office
+- Former Data Science Intern at **Western Weather Group** - built an NLP querying pipeline over 600+ weather stations, improving efficiency by 40%
+- Former Research Analyst at **CSU Chico Basic Needs** - built Power BI dashboards tracking 5,000+ student records; findings presented to the Chancellor's Office
 - Top 3 at **Cal Hacks 2025** with Maven (multi-agent DevRel tool)
 - Active technical writer on **[Medium](https://medium.com/@khushicb2)**
-- On 3-year STEM OPT, no employer sponsorship required
+- On 3-year STEM OPT - no employer sponsorship required
 - Open to collaborating on data science, ML, and analytics engineering projects
 - Pronouns: She/Her
