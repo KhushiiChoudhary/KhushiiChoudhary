@@ -4,9 +4,10 @@ I'm a Data Scientist and ML Engineer passionate about building systems that turn
 
 ## 💬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushicb2/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushichoudhary27/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@khushicb2)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KhushiiChoudhary)
+[![Schedule a Chat](https://img.shields.io/badge/Schedule%20a%20Chat-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://cal.com/khushi-choudhary)
 
 ---
 
